@@ -26,25 +26,25 @@
 </sodipodi:namedview>
 <g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1">
 	<g id="g887" transform="rotate(-90,113.5,117.5)">
-		<path id="rect4504" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccccccccc" class="st0" d="M-389.8,72.1V60.8
-			h150.2v11.3h28.3h40.4h98.5V60.7h22.7v238.1v18.3h-22.6v-18.3h-167.2v18.3h-150.2L-389.8,72.1z"/>
-		<path id="rect4510" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccccccc" class="st0" d="M-83.6,128.8v113.4
-			h11.3V128.8H-83.6z M-72.3,242.2v45.4H-61v-45.4L-72.3,242.2L-72.3,242.2z M-83.6,242.2h-11.3v45.4h11.3V242.2z"/>
+		<path id="rect4504" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccccccccc" class="st0" d="M-395.5,26.7l0-11.3
+			h150.2v11.3l28.3,0l40.4,0l98.5,0V15.3l22.7,0v238.1v11.3H-78v-11.3l-167.2,0v11.3h-150.2L-395.5,26.7z"/>
+		<path id="rect4510" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccccccc" class="st0" d="M-89.3,83.4l0,113.4
+			H-78l0-113.4H-89.3z M-78,196.8l0,45.4h11.3l0-45.4H-78z M-89.3,196.8h-11.3l0,45.4h11.3L-89.3,196.8z"/>
 		
-			<rect id="rect4516" x="-89.4" y="100.4" transform="matrix(-2.535182e-06 -1 1 -2.535182e-06 -172.7286 39.416)" class="st0" width="45.4" height="11.3"/>
+			<rect id="rect4516" x="-95" y="55" transform="matrix(-2.535182e-06 -1 1 -2.535182e-06 -133.0002 -11.614)" class="st0" width="45.4" height="11.3"/>
 		
-			<rect id="rect4520" x="-112" y="100.4" transform="matrix(-2.535182e-06 -1 1 -2.535182e-06 -195.4286 16.7616)" class="st0" width="45.4" height="11.3"/>
+			<rect id="rect4520" x="-117.7" y="55" transform="matrix(-2.535182e-06 -1 1 -2.535182e-06 -155.6774 -34.2912)" class="st0" width="45.4" height="11.3"/>
 	</g>
 	<g id="g4749" transform="rotate(90,164.65615,-64.656146)">
-		<path id="rect4506" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccccccccccccc" class="st0" d="M297.3-206.2
-			v11.3h-59.5v113.4V31.9h59.5v17.3h42.5V31.9h11.3V20.6v-45.4h11.3v-56.7v-56.7h-11.3v-45.4v-11.3h-11.3v-12.3h-42.5V-206.2z"/>
+		<path id="rect4506" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccccccccccccc" class="st0" d="M303-160.8v11.3
+			h-59.5v113.4V77.3H303v11.3h42.5V77.3l11.3,0V66V20.6h11.3v-56.7v-56.7h-11.3v-45.4v-11.3l-11.3,0v-11.3H303z"/>
 	</g>
 	<g id="g4759" transform="rotate(-90,202.24272,206.24278)">
-		<path id="path4564" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccccccccc" class="st0" d="M150.6,60.7V72
-			h-11.3v113.4v113.4h11.3v18.6h42.5v-18.6h59.5v-11.3l18.6,0.5v-45.4l-18.6-0.5V128.8h18.6V83.4h-18.6V72.1h-59.5V60.7H150.6z"/>
+		<path id="path4564" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccccccccc" class="st0" d="M144.9,15.3
+			v11.3h-11.3v113.4v113.4h11.3v11.3h42.5v-11.3l59.5,0v-11.3h11.3v-45.4h-11.3V83.4h11.3V38h-11.3V26.7l-59.5,0V15.3H144.9z"/>
 	</g>
 </g>
-<path class="st0" d="M317.5,589.2"/>
-<path class="st0" d="M204.1,589.2"/>
-<rect id="rect4520_1_" x="158.8" y="589.2" class="st0" width="45.4" height="11.3"/>
+<path class="st0" d="M272.1,594.9"/>
+<path class="st0" d="M158.7,594.9"/>
+<rect id="rect4520_1_" x="113.4" y="594.9" class="st0" width="45.4" height="11.3"/>
 </svg>
